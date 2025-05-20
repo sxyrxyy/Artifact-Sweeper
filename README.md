@@ -1,7 +1,7 @@
 # Artifact Sweeper
 
 ## Overview
-This repository provides a modular batch script named **"ArtifactSweeper"** designed to clean artifacts created by legitimate tools frequently abused by attackers, particularly in human-operated ransomware incidents. The script is based on detailed artifact analysis from the PDF report titled "Analysis on Legit Tools Abused in Human Operated Ransomware" by Trend Micro.
+This repository provides a modular batch script named **"ArtifactSweeper"** designed to clean artifacts created by legitimate tools frequently abused by attackers, particularly in human-operated ransomware incidents. The script is based on detailed artifact analysis from the PDF report titled "[Analysis on Legit Tools Abused in Human Operated Ransomware](https://jsac.jpcert.or.jp/archive/2023/pdf/JSAC2023_1_1_yamashige-nakatani-tanaka_en.pdf)" by Trend Micro.
 
 - Attackers leveraging human-operated ransomware typically misuse these legitimate tools for defense evasion.
 - Commercial tools have seen a significant rise in abuse due to their multifunctionality and ease of blending into typical enterprise operations.
